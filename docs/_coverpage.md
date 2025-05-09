@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+[![logo](https://i.postimg.cc/hP2sdDGf/r-33.png)](https://postimg.cc/svZ5FR7r)
 
 # 议会编年史 <small>wiki</small>
 
