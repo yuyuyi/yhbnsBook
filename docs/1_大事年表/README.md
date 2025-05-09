@@ -1,6 +1,6 @@
 # 大势年表
 
-![势力简图](./_media/normal/normal.png)
+[![势力简图](https://i.postimg.cc/0y9L2zLJ/normal.png)](https://postimg.cc/Mvrs9pZW)
 
 目前整个编年史进度到达第五世代，你可以在这里查看前5个世代的大事年表.
 
